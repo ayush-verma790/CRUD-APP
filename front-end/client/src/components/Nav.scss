@@ -1,0 +1,30 @@
+
+.nav-main{
+    display: flex;
+    height: 70px;
+    justify-content: space-around;
+   align-content: center;
+   box-shadow: -3px 2px 16px -5px black;
+
+}
+.nav-head{
+    color:black;
+    font-size: 18px;
+}
+
+
+ul li {
+    margin: 0px 20px;
+
+}
+.nav-list
+{
+    list-style-type:none;
+    display:flex;
+    flex-direction: row;
+    padding: 16px;
+    margin: 10px;
+    justify-content: space-around;
+    word-spacing: 1px;
+    
+}
